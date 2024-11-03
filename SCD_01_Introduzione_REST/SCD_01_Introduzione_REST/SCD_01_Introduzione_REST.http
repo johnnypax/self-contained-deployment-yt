@@ -1,0 +1,6 @@
+@SCD_01_Introduzione_REST_HostAddress = http://localhost:5049
+
+GET {{SCD_01_Introduzione_REST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

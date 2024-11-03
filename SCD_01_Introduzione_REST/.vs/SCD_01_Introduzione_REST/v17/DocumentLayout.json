@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Downloads\\SCD_01_Introduzione_REST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E52017-F188-4E5F-BD4E-EB51EDAC7C20}|SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST.csproj|c:\\users\\academy\\downloads\\scd_01_introduzione_rest\\scd_01_introduzione_rest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17E52017-F188-4E5F-BD4E-EB51EDAC7C20}|SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST.csproj|solutionrelative:scd_01_introduzione_rest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E52017-F188-4E5F-BD4E-EB51EDAC7C20}|SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST.csproj|c:\\users\\academy\\downloads\\scd_01_introduzione_rest\\scd_01_introduzione_rest\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E52017-F188-4E5F-BD4E-EB51EDAC7C20}|SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST.csproj|solutionrelative:scd_01_introduzione_rest\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E52017-F188-4E5F-BD4E-EB51EDAC7C20}|SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST.csproj|c:\\users\\academy\\downloads\\scd_01_introduzione_rest\\scd_01_introduzione_rest\\scd_01_introduzione_rest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{17E52017-F188-4E5F-BD4E-EB51EDAC7C20}|SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST.csproj|solutionrelative:scd_01_introduzione_rest\\scd_01_introduzione_rest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SCD_01_Introduzione_REST\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SCD_01_Introduzione_REST\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T11:42:25.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SCD_01_Introduzione_REST",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST.csproj",
+              "RelativeDocumentMoniker": "SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST.csproj",
+              "RelativeToolTip": "SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T11:42:23.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "SCD_01_Introduzione_REST\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\SCD_01_Introduzione_REST\\SCD_01_Introduzione_REST\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "SCD_01_Introduzione_REST\\Controllers\\HelloController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:41:36.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

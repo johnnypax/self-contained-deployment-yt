@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SCD_01_Introduzione_REST.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SCD_01_Introduzione_REST.props" />
+</Project>
